@@ -1,4 +1,4 @@
-# GameIceOnlineAnalysisandPrediction
+# Game Ice Online Analysis and Prediction
 Introduction
 
 Ice Online Store is a retailer that sells video games from around the world. There is data related to user and expert game reviews, genres, platforms, and historical game sales data available from open sources.
